@@ -1,6 +1,7 @@
 const canvas = document.getElementById("stars");
 const ctx = canvas.getContext('2d');
 
+//needed here to have the canvas fill the page
 canvas.width  = window.innerWidth;
 canvas.height = window.innerHeight;
 
