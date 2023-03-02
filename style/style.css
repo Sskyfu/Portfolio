@@ -16,3 +16,8 @@ position: fixed;
   background: linear-gradient(132deg, rgb(34, 181, 254) 0.00%, rgb(255, 186, 214) 100.00%);
   z-index: 1;
 }
+
+.img-resize{
+  max-width: 200px;
+  max-height: 200px;
+}
