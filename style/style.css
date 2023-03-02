@@ -11,3 +11,8 @@ position: fixed;
     z-index: 1;
     opacity: 80%;
 }
+
+.cute-grad{
+  background: linear-gradient(132deg, rgb(34, 181, 254) 0.00%, rgb(255, 186, 214) 100.00%);
+  z-index: 1;
+}
