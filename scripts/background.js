@@ -71,6 +71,9 @@ function setup(){
     for(let i = 0; i < params.count; i++){
         starArry[i] = new Star();
     }
+
+    //set the speed to be the same regardless of screen size 
+    params.speed = window.innerWidth * .001
     
 }
 
