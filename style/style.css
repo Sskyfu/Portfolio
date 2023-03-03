@@ -21,3 +21,10 @@ position: fixed;
   max-width: 200px;
   max-height: 200px;
 }
+
+.small-box
+{
+  width: 75%;
+  margin-left:auto;
+  margin-right:auto;
+}
