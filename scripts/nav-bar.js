@@ -14,8 +14,7 @@ navBar.appendChild(btnTest);
 
 */
 
-for (i =0; i < pageList.length; i++)
-{
+for (i =0; i < pageList.length; i++){
 let btnTemp = document.createElement("a");
 btnTemp.classList.add("btn");
 btnTemp.classList.add("btn-primary");
